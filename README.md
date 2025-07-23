@@ -16,4 +16,4 @@ git clone https://github.com/miriamcalandri-unipg/UniformColoring.git
 pip install -r requirements.txt
 ``` 
 
-- [Descrizione del progetto assegnato](/home/miry/personal/curriculum-projects/UniformColoring/ProgettoIntroAI_2122_Coloring.pdf)
+- [Descrizione del progetto assegnato](/ProgettoIntroAI_2122_Coloring.pdf)
