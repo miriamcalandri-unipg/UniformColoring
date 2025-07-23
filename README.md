@@ -6,7 +6,7 @@ Sviluppato da Miriam Calandri e Stefania Fiorelli.
 - Installare Python 3.10
 - Clonare la repository
 ```bash
-git clone https://github.com/example-user/example-repo.git
+git clone https://github.com/miriamcalandri-unipg/UniformColoring.git
 ```
 - Installare i requisiti
 ```bash
