@@ -1,6 +1,5 @@
 # Uniform Coloring
-*Progetto per il corso di Introduzione all'Intelligenza Artificiale - Anno 2024-2025*  
-
+*Progetto per il corso di Introduzione all'Intelligenza Artificiale - Anno 2024/2025*   
 Sviluppato da Miriam Calandri e Stefania Fiorelli.
 
 # Per avviare il progetto
