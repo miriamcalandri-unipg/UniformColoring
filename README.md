@@ -1,7 +1,7 @@
 # Uniform Coloring
 *Progetto per il corso di Introduzione all'Intelligenza Artificiale - Anno 2024/2025*   
 
-# Autori
+## Autori
 - Miriam Calandri
 - Stefania Fiorelli
 
