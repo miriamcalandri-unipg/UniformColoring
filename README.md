@@ -5,7 +5,7 @@
 - Miriam Calandri
 - Stefania Fiorelli
 
-# Per avviare il progetto
+# Per eseguire il progetto
 - Installare Python 3.10
 - Clonare la repository
 ```bash
